@@ -2,7 +2,7 @@
 ![fai](https://s6.uupload.ir/files/img_20220504_223538_897_3xol.jpg)
 
 # About:
-     This is iranian telegram bot to hack other bot creators!
+     This Is Iranian Telegram Bot To Hack Other Bot Creators!
 
 # Installation:
         1) Edit bot file
