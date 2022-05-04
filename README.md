@@ -3,12 +3,12 @@
 
 # About:
      This Is Iranian Telegram Bot To Hack Other Bot Creators!
-
+     
 # Installation:
         1) Edit bot file
         2) Make this Directories: [users , step , lists , invite , codes]  
-	3) Make List files in Lists Direcotry  
-	4) RUN it!
+	    3) Make List files in Lists Direcotry  
+        4) RUN it!
       
 
         
